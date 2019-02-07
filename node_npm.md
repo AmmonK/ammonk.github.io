@@ -12,7 +12,6 @@ If there are MAC Node/NPM permission issues, here is the easiest fix:
 ```
 mkdir ~/.npm-global
 npm config set prefix '~/.npm-global'
-
 ```
 
 add to ~/.bash_profile
