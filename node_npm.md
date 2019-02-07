@@ -9,15 +9,23 @@ Curriculum uses [Homebrew](https://brew.sh/){:target="\_blank"} to install Node 
 If there are MAC Node/NPM permission issues, here is the easiest fix:
 [source](https://docs.npmjs.com/resolving-eacces-permissions-errors-when-installing-packages-globally){:target="\_blank"}
 
-`mkdir ~/.npm-global`
+```
+mkdir ~/.npm-global
+npm config set prefix '~/.npm-global'
 
-`npm config set prefix '~/.npm-global'`
+```
 
-add to ~/.bash_profile `export PATH=~/.npm-global/bin:$PATH`
+add to ~/.bash_profile
+
+```
+export PATH=~/.npm-global/bin:$PATH
+```
 
 There might still be errors installing packages, this is because NPM cache is now considered to be dirty; it has references to two potential locations.
 
-`sudo npm cache clean --force`
+```
+sudo npm cache clean --force
+```
 
 All global NPM packages will need to be re-installed into their new location.
 
@@ -31,31 +39,45 @@ Use node [installer](https://nodejs.org/en/){:target="\_blank"}.
 
 List all installed global packages:
 
-`npm list -g --depth=0`
+```
+npm list -g --depth=0
+```
 
 Find out where global packages are installed:
 
-`npm config get prefix`
+```
+npm config get prefix
+```
 
 Install a global package:
 
-`npm install -g package_name`
+```
+npm install -g package_name
+```
 
 Uninstall a global package:
 
-`npm uninstall -g package_name`
+```
+npm uninstall -g package_name
+```
 
 Install a local package:
 
-`npm install package_name`
+```
+npm install package_name
+```
 
 Uninstall a local package:
 
-`npm uninstall package_name`
+```
+npm uninstall package_name
+```
 
 Install all packages from package.json:
 
-`npm install`
+```
+npm install
+```
 
 ## Errata
 
