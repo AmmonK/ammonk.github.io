@@ -10,6 +10,7 @@
 ## Project Examples
 
 - [MEAN file upload](https://github.com/AmmonK/mean-fileupload){:target="\_blank"}
+- [Angular Search / Filter](https://github.com/AmmonK/angular_searchfilter){:target="\_blank"}
 
 ## Troubleshooting
 
