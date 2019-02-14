@@ -13,6 +13,7 @@
 - [MERN file upload](https://github.com/AmmonK/mern-fileupload){:target="\_blank"}
 - [Angular Search / Filter](https://github.com/AmmonK/angular-searchfilter){:target="\_blank"}
 - [React Mapquest](https://github.com/AmmonK/react-mapquest){:target="\_blank"}
+- [React Leaflet Map](https://github.com/AmmonK/react-leaflet-map){:target="\_blank"}
 
 ## Troubleshooting
 
