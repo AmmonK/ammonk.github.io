@@ -1,4 +1,4 @@
-## Project Starter Templates
+## Project Stack Examples
 
 - [MEAN: Mongo Express Angular Node](https://github.com/AmmonK/mean-starter){:target="\_blank"}
 - [MERN: Mongo Express React Node](https://github.com/AmmonK/mern-starter){:target="\_blank"}
