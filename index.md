@@ -14,6 +14,10 @@
 - [Express with Mongodb](https://github.com/AmmonK/express-mongo){:target="\_blank"}
 - [Express with MySQL](https://github.com/AmmonK/express-mysql){:target="\_blank"}
 
+## Front Ends
+
+- [Angular](https://github.com/AmmonK/angular){:target="\_blank"}
+
 ## Project Examples
 
 - [MEAN file upload](https://github.com/AmmonK/mean-fileupload){:target="\_blank"}
