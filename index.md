@@ -7,7 +7,7 @@
 
 ## Back Ends + Database
 
-- [Spring Boot with Sqlite](https://github.com/AmmonK/spring-sqlite){:target="\_blank"}
+- [Spring boot with Sqlite](https://github.com/AmmonK/spring-sqlite){:target="\_blank"}
 - [Spring boot with Mongodb](https://github.com/AmmonK/spring-mongodb){:target="\_blank"}
 - [Spring boot with MySQL](https://github.com/AmmonK/spring-mysql){:target="\_blank"}
 - [Express with Sqlite](https://github.com/AmmonK/express-sqlite){:target="\_blank"}
