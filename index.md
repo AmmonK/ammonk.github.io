@@ -31,3 +31,7 @@
 ## Troubleshooting
 
 - [Node/NPM](/node_npm)
+
+## Guides
+
+- [Git for Teams](/github_teams)
