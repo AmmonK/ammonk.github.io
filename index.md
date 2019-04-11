@@ -19,6 +19,10 @@
 - [Angular](https://github.com/AmmonK/angular){:target="\_blank"}
 - [React](https://github.com/AmmonK/react){:target="\_blank"}
 
+## Authentication
+
+- [MySQL Express Angular Auth](https://github.com/AmmonK/mysql-express-angular-auth){:target="\_blank"}
+
 ## Project Examples
 
 - [MEAN file upload](https://github.com/AmmonK/mean-fileupload){:target="\_blank"}
