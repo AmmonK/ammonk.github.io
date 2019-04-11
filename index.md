@@ -22,6 +22,7 @@
 ## Authentication
 
 - [MySQL Express Angular Auth](https://github.com/AmmonK/mysql-express-angular-auth){:target="\_blank"}
+- [Mongo Express Angular Auth](https://github.com/AmmonK/mongo-express-angular-auth){:target="\_blank"}
 
 ## Project Examples
 
