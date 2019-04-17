@@ -1,3 +1,8 @@
+## Guides
+
+- [Git for Teams](/github_teams)
+- [Group Project](/group_project)
+
 ## Project Stack Examples
 
 - [MEAN: Mongo Express Angular Node](https://github.com/AmmonK/mean-starter){:target="\_blank"}
@@ -36,8 +41,3 @@
 ## Troubleshooting
 
 - [Node/NPM](/node_npm)
-
-## Guides
-
-- [Git for Teams](/github_teams)
-- [Group Project](/group_project)
