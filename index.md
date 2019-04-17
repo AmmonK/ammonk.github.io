@@ -40,3 +40,4 @@
 ## Guides
 
 - [Git for Teams](/github_teams)
+- [Group Project](/group_project)
