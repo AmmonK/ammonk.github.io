@@ -82,6 +82,10 @@ Inside the back end folder, run this command:
 create-react-app client
 ```
 
+If you are using React with Express, change the Express port to 3001
+
+> Edit bin/www line 15
+
 # Create project boilerplate Step 3, Git
 
 Cleanup: remove any .git folders found
