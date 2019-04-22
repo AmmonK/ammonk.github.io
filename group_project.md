@@ -88,7 +88,7 @@ If you are using React with Express, change the Express port to 3001
 
 Output listening port
 
-> Copy `debug("Listening on " + bind);` and paste onto a new line below. Modify to `console.log("Listening on " + bind")`
+> Copy `debug("Listening on " + bind);` and paste onto a new line below. Modify to `console.log("Listening on " + bind);`
 
 # Create project boilerplate Step 3, Git
 
