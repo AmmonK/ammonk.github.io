@@ -25,7 +25,7 @@ Dependencies
 Create a project folder, inside that folder run this command:
 
 ```
-express --no-view
+express --no-view --git
 ```
 
 ## Option 2: Spring
