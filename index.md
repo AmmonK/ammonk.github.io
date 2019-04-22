@@ -1,6 +1,6 @@
 ## Guides
 
-- [Git for Teams](/github_teams)
+- [Git for Teams](/git_teams)
 - [Group Project](/group_project)
 
 ## Project Stack Examples

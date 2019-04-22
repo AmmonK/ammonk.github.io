@@ -1,4 +1,4 @@
-# Github For Teams
+# Git For Teams
 
 ## Downloads
 
