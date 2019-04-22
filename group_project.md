@@ -1,3 +1,19 @@
+# Group project will create a Project Stack
+
+A project stack is the set of frameworks that are used to run the project, consisting of
+
+- Database
+- Back End
+- Front End
+
+The Database can be either MySQL, SQLite, or MongoDb.
+
+The Back End can be either Express, Spring, or .NET core.
+
+The Front End can be either React, or Angular.
+
+---
+
 # Creating project boilerplate Step 1, Back End
 
 ## Option 1: Express
@@ -83,3 +99,7 @@ git commit -m "initial commit";
 git remote add origin URL_OF_GITHUB_REPO.git
 git push -u origin master
 ```
+
+# Creating project boilerplate Step 3, Database
+
+It is recommended to use the database that was outlined in your Back End Foundations course. If you would like to use a database not listed, seek instructor approval. Any of the databases can be used with any of the back end frameworks.
