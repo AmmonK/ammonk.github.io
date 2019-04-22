@@ -29,6 +29,10 @@
 
 > Combine two branches in a repository
 
+#### Stashe
+
+> Temporary storage for changes
+
 ## Commands
 
 #### Create a local git repository
@@ -60,4 +64,56 @@ git commit -m "message"
 
 ```
 git push origin BRANCHNAME
+```
+
+#### Pull changes from remote to local
+
+```
+git pull
+```
+
+# Stashing
+
+#### Stash changes
+
+```
+git stash
+```
+
+#### View stashes
+
+```
+git stash list
+```
+
+#### Apply stashed changes
+
+```
+git stash apply
+```
+
+#### Discard stash
+
+```
+git stash drop
+```
+
+# Merging
+
+#### Checkout the destination branchB into branchA
+
+```
+git checkout branchA
+```
+
+#### Merge into the destination branch
+
+```
+git merge branchB
+```
+
+#### Pushed merged branch
+
+```
+git push origin branchA
 ```
