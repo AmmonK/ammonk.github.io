@@ -56,6 +56,8 @@ Create a project folder, inside that folder run this command:
 dotnet new webapi
 ```
 
+---
+
 # Creating project boilerplate Step 1, Front End
 
 ## Option 1: Angular
@@ -90,6 +92,8 @@ Output listening port
 
 > Copy `debug("Listening on " + bind);` and paste onto a new line below. Modify to `console.log("Listening on " + bind);`
 
+---
+
 # Create project boilerplate Step 3, Git
 
 Cleanup: remove any .git folders found
@@ -108,6 +112,8 @@ git remote add origin URL_OF_GITHUB_REPO.git
 git push -u origin master
 ```
 
-# Creating project boilerplate Step 3, Database
+---
+
+# Creating project boilerplate Step 4, Database
 
 It is recommended to use the database that was outlined in your Back End Foundations course. If you would like to use a database not listed, seek instructor approval. Any of the databases can be used with any of the back end frameworks.
