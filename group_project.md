@@ -14,7 +14,7 @@ The Front End can be either React, or Angular.
 
 ---
 
-# Creating project boilerplate Step 1, Back End
+# Step 1: Pick a Back-End
 
 ## Option 1: Express
 
@@ -58,7 +58,7 @@ dotnet new webapi
 
 ---
 
-# Creating project boilerplate Step 1, Front End
+# Step 2: Pick a Front-End
 
 ## Option 1: Angular
 
@@ -94,7 +94,7 @@ Output listening port
 
 ---
 
-# Create project boilerplate Step 3, Git
+# Step 3: Add project to Github
 
 Cleanup: remove any .git folders found
 
@@ -102,7 +102,15 @@ Cleanup: remove any .git folders found
 - check client folder
 - make sure that "view hidden" is selected
 
-Push to repository
+Make a `.gitignore` file in the root of the project with the below text. This excludes the node_modules folder from the repository.
+
+```
+/node_modules
+```
+
+_DO NOT CHECK IN NODE_MODULES TO YOUR GITHUB REPOSITORY_
+
+How to push to repository
 
 ```
 git init
@@ -114,6 +122,6 @@ git push -u origin master
 
 ---
 
-# Creating project boilerplate Step 4, Database
+# Step 4: Pick a Database
 
 It is recommended to use the database that was outlined in your Back End Foundations course. If you would like to use a database not listed, seek instructor approval. Any of the databases can be used with any of the back end frameworks.
