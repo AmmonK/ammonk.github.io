@@ -22,39 +22,39 @@ Gordon is the founder of an open source project and wants to be able to post inf
 
 > Story 2
 
-      - As Frank
-      - I want to view a list of OSP
-      - So that I can find a project to contribute to
+    - As Frank
+    - I want to view a list of OSP
+    - So that I can find a project to contribute to
 
 > Story 3
 
-      - As Frank
-      - I want to contact the owner of a project
-      - So that I can start contributing
+    - As Frank
+    - I want to contact the owner of a project
+    - So that I can start contributing
 
 > Story 4
 
-- As Frank
-- I want to rate an OSP I have worked on
-- So that others can find good projects
+    - As Frank
+    - I want to rate an OSP I have worked on
+    - So that others can find good projects
 
 > Story 5
 
-- As Gordon
-- I want to add my OSP
-- So that developers can contribute
+    - As Gordon
+    - I want to add my OSP
+    - So that developers can contribute
 
 > Story 6
 
-- As Gordon
-- I want to edit my OSP information
-- So that I can keep the OSP current
+    - As Gordon
+    - I want to edit my OSP information
+    - So that I can keep the OSP current
 
 > Story 7
 
-- As Gordon
-- I want to audit comments and ratings
-- So that only valid comments and ratings are displayed
+    - As Gordon
+    - I want to audit comments and ratings
+    - So that only valid comments and ratings are displayed
 
 ---
 
@@ -70,15 +70,15 @@ Gordon is the founder of an open source project and wants to be able to post inf
 
 > What data defines an OSP?
 
-- Name of project
-- Name of owner (or organization)
-- Owner email address
-- Project Link
-- Project Description
-- Rating (overall)
-- Vacancy (yes/no)
-- License Type
-- Tags
+    - Name of project
+    - Name of owner (or organization)
+    - Owner email address
+    - Project Link
+    - Project Description
+    - Rating (overall)
+    - Vacancy (yes/no)
+    - License Type
+    - Tags
 
 ---
 
