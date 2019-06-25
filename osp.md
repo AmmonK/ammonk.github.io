@@ -16,21 +16,21 @@ Gordon is the founder of an open source project and wants to be able to post inf
 
 > Story 1
 
-- As Frank
-- I need to create an account
-- So that I can add ratings and comments
+    - As Frank
+    - I need to create an account
+    - So that I can add ratings and comments
 
 > Story 2
 
-- As Frank
-- I want to view a list of OSP
-- So that I can find a project to contribute to
+      - As Frank
+      - I want to view a list of OSP
+      - So that I can find a project to contribute to
 
 > Story 3
 
-- As Frank
-- I want to contact the owner of a project
-- So that I can start contributing
+      - As Frank
+      - I want to contact the owner of a project
+      - So that I can start contributing
 
 > Story 4
 
