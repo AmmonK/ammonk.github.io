@@ -1,4 +1,4 @@
-# Open Source Project stories
+# Open Source Project
 
 ## Personas
 
